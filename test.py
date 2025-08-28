@@ -29,7 +29,8 @@ termos = [
     "lojas populares de roupa",
     "lojas de roupas centro",
     "loja de terno",
-    "roupas para jovens"
+    "roupas para jovens",
+    "roupas"
 ]
 
 
